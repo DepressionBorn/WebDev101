@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #EDF2F4;
+}
+
+div{
+  background-color: #8d99ae;
+}
+h1{
+  color: #ef233c
+}
