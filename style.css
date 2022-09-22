@@ -13,3 +13,6 @@ div{
 h1{
   color: #ef233c
 }
+nav{
+  position: fixed;
+}
