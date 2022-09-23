@@ -15,4 +15,5 @@ h1{
 }
 nav{
   position: fixed;
+  top: 0;
 }
